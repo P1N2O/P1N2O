@@ -1,0 +1,11 @@
+# Hi, I'm Manuel!
+
+[![GitHub Stars](https://img.shields.io/github/stars/P1N2O)](https://8080.li/github?tab=repositories&type=source)
+ ‎ 
+[![Sponsors](https://img.shields.io/github/sponsors/P1N2O)](https://8080.li/sponsor)
+
+<img align="right" width="512" height="256" src="https://static.pinto.dev/assets/image/html-css-js.svg">
+
+- 👨🏻‍💻 Software developer based in Bengaluru, In
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://manuel.pinto.dev) ‎ [![Tools](https://img.shields.io/badge/Tools-green)](https://lab.pinto.dev) ‎ [![Notes](https://img.shields.io/badge/Notes-blue)](https://notes.pinto.dev)
