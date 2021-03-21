@@ -1,6 +1,6 @@
 ### Hi there! I'm Manuel Pinto, a passionate UI/UX Designer & Front-End Developer from Bengaluru, India.
 
-### I'm a Front-End Developer at Static Design Studio and I've been working in the web industry for the past 6 years.
+### I'm a Front-End Developer at Static Design Studio and I've been working in the web industry for the past decade.
 ### I focus on building clean and minimalistic user interfaces.
 
 <!--
