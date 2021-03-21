@@ -1,7 +1,7 @@
-### Hi there! I'm Manuel Pinto, a passionate UI/UX Designer & Front-End Developer from Bengaluru, India.
+### Hello! I'm Manuel Pinto, a passionate UI/UX Designer & Front-End Developer from Bengaluru, India.
 
-### I'm a Front-End Developer at Static Design Studio and I've been working in the web industry for the past decade.
-### I focus on building clean and minimalistic user interfaces.
+### I'm a Software Engineer at [Dell Technoligies](https://www.delltechnologies.com/). I've been in the web industry for the past decade.
+### I focus on building clean and minimalistic web products.
 
 <!--
 **P1N2O/P1N2O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
