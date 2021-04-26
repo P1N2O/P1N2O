@@ -1,6 +1,6 @@
 ### Hello! I'm Manuel Pinto, a passionate UI/UX Designer & Front-End Developer from Bengaluru, India.
 
-### I'm a Software Engineer at Dell Technologies. I've been in the web industry for the past decade.
+### I've been in the web industry for the past decade.
 ### I focus on building clean and minimalistic web products.
 
 <!--
