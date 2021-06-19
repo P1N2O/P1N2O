@@ -1,7 +1,6 @@
-#### 👋 Hi there! I'm Manuel Pinto — a self-taught developer - obsessed with clean and minimalistic web products.
-
+### 👋 Hi there!
+#### I'm Manuel Pinto — a self-taught developer - obsessed with clean and minimalistic web products.
 #### I'm a Software Engineer at Dell Technologies and I've been in the web industry for about a decade.
-
 ##### #HTML #SCSS #JavaScript #Angular
 
 <!--
