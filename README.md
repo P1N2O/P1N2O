@@ -1,4 +1,4 @@
-#### #HTML #SCSS #JavaScript #Angular
+#### #HTML #SCSS #TypeScript #Angular
 
 <!--
 **P1N2O/P1N2O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
