@@ -9,3 +9,5 @@
 - 👨🏻‍💻 Software developer based in Bengaluru, In
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://manuel.pinto.dev) ‎ [![Tools](https://img.shields.io/badge/Tools-green)](https://lab.pinto.dev) ‎ [![Notes](https://img.shields.io/badge/Notes-blue)](https://notes.pinto.dev)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1N2O&theme=dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1N2O&theme=dark)
