@@ -4,7 +4,7 @@
  ‎ 
 [![Sponsors](https://img.shields.io/github/sponsors/P1N2O)](https://8080.li/sponsor)
  ‎ 
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)](https://8080.li/github)
+[![Profile Views](https://komarev.com/ghpvc/?username=P1N2O&color=green)](https://8080.li/github)
 
 <img align="right" width="512" height="256" src="https://static.pinto.dev/assets/image/html-css-js.svg">
 
