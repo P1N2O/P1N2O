@@ -10,6 +10,6 @@
 
 - 👨🏻‍💻 Software developer based in Bengaluru, India.
 
-[![Portfolio](https://img.shields.io/badge/🌐 Portfolio-blue)](https://manuel.pinto.dev) ‎ [![Projects](https://img.shields.io/badge/🛠️ Projects-green)](https://lab.pinto.dev) ‎ [![Notes](https://img.shields.io/badge/📝 Notes-blue)](https://notes.pinto.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://manuel.pinto.dev) ‎ [![Projects](https://img.shields.io/badge/Projects-green)](https://lab.pinto.dev) ‎ [![Notes](https://img.shields.io/badge/Notes-blue)](https://notes.pinto.dev)
 
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1N2O&theme=dark)](https://8080.li/github?tab=repositories&type=source) [![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1N2O&theme=dark)](https://8080.li/github?tab=repositories&type=source)
