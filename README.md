@@ -4,4 +4,5 @@ I'm a full-stack developer and an open-source enthusiast passionate about buildi
 
 ___
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=p1n2o&theme=highcontrast)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=p1n2o&theme=highcontrast)](https://github.com/P1N2O)
