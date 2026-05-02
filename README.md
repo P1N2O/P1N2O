@@ -1,15 +1,7 @@
-# Hi, I'm Manuel!
+# Hi there, I'm Manuel! 👋
 
-[![GitHub Stars](https://img.shields.io/github/stars/P1N2O)](https://8080.li/github?tab=repositories&type=source)
- ‎ 
-[![Sponsors](https://img.shields.io/github/sponsors/P1N2O)](https://8080.li/sponsor)
- ‎ 
-[![Profile Views](https://komarev.com/ghpvc/?username=P1N2O&color=green)](https://8080.li/github)
+I'm a full-stack developer and an open-source enthusiast passionate about building great software.
 
-<img align="right" width="512" height="256" src="https://static.pinto.dev/assets/image/html-css-js.svg">
+___
 
-- 👨🏻‍💻 Software developer based in Bengaluru, India.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://manuel.pinto.dev) ‎ [![Projects](https://img.shields.io/badge/Projects-green)](https://lab.pinto.dev) ‎ [![Notes](https://img.shields.io/badge/Notes-blue)](https://notes.pinto.dev)
-
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1N2O&theme=dark)](https://8080.li/github?tab=repositories&type=source) [![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1N2O&theme=dark)](https://8080.li/github?tab=repositories&type=source)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=p1n2o&theme=highcontrast)
